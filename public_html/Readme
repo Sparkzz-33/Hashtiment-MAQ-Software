@@ -6,7 +6,7 @@ Description :
 	Requirements: XAMPP server is required.
 	Steps:
 	1. Start the Xampp server
-	2. Place the project inside the <<Xampp-directory>>/htdocs/
+	2. Place the project inside the <<Xampp-directory>>/htdocs/hashtiment-master
 	3. Go to htdocs/hashtiment-master/public_html
 	4. Open index.php in browser
 
